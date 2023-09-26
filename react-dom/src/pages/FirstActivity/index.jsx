@@ -25,7 +25,7 @@ function FirstActivity() {
     <>
       <div className="app">
         <Link to="/">
-          <button>Home <TfiHome/></button>
+          <button>Home</button>
         </Link>
         <Link to="/first">
           <h1>Search ID</h1>
